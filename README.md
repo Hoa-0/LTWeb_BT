@@ -1,10 +1,10 @@
-# BaiTap01
+# BaiTap01 - Bài Tập Login với Cookie và Login với Session
 
 MSSV: 23110370
 
 HoTen: Hồng Phước Hòa
 
-# Bài Tập Login với Cookie và Login với Session
+MaLHP: WEPR330479_02
 
 # Thông tin đăng nhập
 
