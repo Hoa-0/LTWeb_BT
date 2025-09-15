@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemesh>
+	<!-- Không áp dụng decorator cho trang login -->
+	<mapping path="/login.jsp" exclude="true" />
+	<!-- Áp dụng decorator web.jsp cho tất cả các trang khác -->
+	<mapping path="/*" decorator="/WEB-INF/decorators/web.jsp" />
+</sitemesh>
